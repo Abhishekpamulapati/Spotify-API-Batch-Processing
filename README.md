@@ -31,7 +31,7 @@ cd <your-repository>
 🔐 Authentication & Tokens
 The authentication module uses Spotify’s OAuth flow to obtain access and refresh tokens. These are automatically refreshed to maintain session validity during batch operations.
 
-**### 4. 🔄 Pagination Engine**
+### 4. 🔄 Pagination Engine
 Built-in support for paginated data processing with smart retries and rate limit awareness.
 Example:
 ```python
