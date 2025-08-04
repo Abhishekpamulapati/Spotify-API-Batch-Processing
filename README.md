@@ -20,7 +20,7 @@ cd <your-repository>
 Create a .env file using your Spotify app credentials:
 SPOTIFY_CLIENT_ID=your_client_id
 SPOTIFY_CLIENT_SECRET=your_client_secret
-SPOTIFY_REDIRECT_URI=http://localhost:8888/callback
+SPOTIFY_REDIRECT_URI=http://127.0.0.1:8000/callback
 
 
 4. Install Dependencies
