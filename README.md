@@ -43,5 +43,6 @@ albums_data = client.get_albums_by_ids(album_ids)
 ```
 
 ### 5.📘 Documentation
-Detailed step-by-step instructions and usage scenarios can be found in instructions.md.
+Detailed step-by-step instructions and usage scenarios can be found with instructions for each step or refer placeholder.ipynb
+
 🤝 Thank you for checking it out
