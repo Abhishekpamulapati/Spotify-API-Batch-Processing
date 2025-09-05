@@ -39,8 +39,10 @@ cd <your-repository>
 Create a .env file inside the src/ directory with the following content:
 
 CLIENT_ID=your_spotify_client_id
+
 CLIENT_SECRET=your_spotify_client_secret
-AAP_NAME=SpotifyAPPName
+
+APP_NAME=SpotifyAPPName
 
 
 Read Spotify API documentation for more details on these parameters.:
