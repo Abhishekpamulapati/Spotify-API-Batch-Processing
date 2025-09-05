@@ -37,12 +37,15 @@ cd <your-repository>
 ```
 ### 3. 🔧 Environment Setup
 Create a .env file inside the src/ directory with the following content:
+
 CLIENT_ID=your_spotify_client_id
 CLIENT_SECRET=your_spotify_client_secret
+AAP_NAME=SpotifyAPPName
 
 
-Install dependencies:
-pip install -r requirements.txt
+Read Spotify API documentation for more details on these parameters.:
+
+Follow the instructions in `placeholder.ipynb` to install dependencies and set up your environment.
 
 
 
@@ -96,5 +99,5 @@ albums_data = client.get_albums_by_ids(album_ids)
 Detailed step-by-step instructions and usage scenarios can be found in placeholder.ipynb.
 
 🤝 Thank you for checking it out!
-Feel free to fork, contribute, or reach out with questions.
+Feel free to fork, practice, or reach out with questions.
 
