@@ -101,5 +101,4 @@ albums_data = client.get_albums_by_ids(album_ids)
 Detailed step-by-step instructions and usage scenarios can be found in placeholder.ipynb.
 
 🤝 Thank you for checking it out!
-Feel free to fork, practice, or reach out with questions.
-
+Feel free to fork, practice!!
